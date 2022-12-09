@@ -1,0 +1,19 @@
+Docker est une technologie de virtualisation des conteneurs qui permet de créer et de déployer des applications dans des environnements isolés. 
+Docker rend le déploiement et la gestion des applications plus facile en s'assurant que l'application fonctionne de la même manière quel que soit l'environnement dans lequel elle est exécutée.
+Un des grands avantages de Docker est qu'il permet de créer des environnements de développement reproductibles.
+Cela signifie que l'on peut définir précisément les versions des différents composants utilisés dans l'application (par exemple, le système d'exploitation, les bibliothèques, etc.) et s'assurer que ces versions seront toujours les mêmes, quel que soit l'environnement dans lequel l'application est exécutée.
+Cela peut être très utile pour éviter les problèmes liés aux différences entre les environnements de développement et de production.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La CI (intégration continue) et la CD (livraison continue) font partie des pratiques de développement logiciel qui visent à automatiser et à améliorer le processus de création et de déploiement des applications.
+La CI consiste à intégrer les modifications apportées au code source de manière continue, tandis que la CD vise à déployer ces modifications de manière continue également.
+Ces pratiques sont utiles pour accélérer le processus de développement et pour minimiser les erreurs en s'assurant que les modifications apportées au code sont toujours fonctionnelles.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+J'ai apprécié le cours dans l'ensemble.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
